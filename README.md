@@ -143,7 +143,7 @@ I'm a **Software Development Engineer (Backend)** at **[Razorpay](https://razorp
 </p>
 
 <p align="center">
-  LeetCode max <b>1837</b> · <b>400+</b> problems · Global rank 1866 in Weekly Contest 374<br/>
+  LeetCode max <b>1837</b> · <b>580+</b> problems · Global rank 1866 in Weekly Contest 374<br/>
   CodeChef <b>3★</b> max <b>1631</b> · top 30 globally in Starters 111 (Div. 3)
 </p>
 
