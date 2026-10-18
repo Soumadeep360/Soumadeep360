@@ -13,7 +13,6 @@
   <a href="mailto:soumadeepsarkar4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/NebulaNomad/"><img src="https://img.shields.io/badge/LeetCode-1837-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/agnition"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%201631-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Soumadeep360&style=for-the-badge&color=0e75b6&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -122,10 +121,6 @@ I'm a **Software Development Engineer (Backend)** at **[Razorpay](https://razorp
   <img src="https://streak-stats.demolab.com/?user=Soumadeep360&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumadeep360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumadeep360&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=Kidney-Disease-Classification-Deep-Learning-Project,webM,webLab" alt="Top languages" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/38BDF8/Soumadeep360" alt="Contribution heatmap" width="100%"/>
