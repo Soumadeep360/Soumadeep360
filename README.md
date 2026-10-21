@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Soumadeep360">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Payroll+infrastructure+for+10%2C000%2B+merchants;13M%2B+payslips+a+year+on+systems+I+build;Temporal+workflows+%E2%80%A2+gRPC+microservices+%E2%80%A2+zero-downtime+migrations;Agentic+SDLC+workflows+used+by+13+teams" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Backend+Engineer+%E2%80%A2+Distributed+Systems;Building+systems+that+don%27t+page+you+at+3+AM;Idempotent+by+default.+Observable+by+design.;while+(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D" alt="Typing intro"/>
   </a>
 </p>
 
