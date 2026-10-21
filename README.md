@@ -23,7 +23,7 @@ I'm a **Software Development Engineer (Backend)** at **[Razorpay](https://razorp
 
 - 🏗️ I like owning a system end to end: design doc, build, rollout, alerts, on-call
 - 🤖 Lately: agentic workflows that take a PRD all the way to tested code
-- 🏆 Razorpay **AI Hackathon 2025, 1st place** · **Best Performer** · **AI Adoption Award**
+- 🏆 Razorpay **AI Hackathon 2025, 1st place**
 - 🎓 B.E. Computer Science, Ramaiah Institute of Technology (2025)
 - 💬 Open to backend roles in any domain. Say hi on [LinkedIn](https://www.linkedin.com/in/soumadeepsarkar/)
 
